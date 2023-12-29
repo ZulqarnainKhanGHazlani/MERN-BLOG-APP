@@ -1,0 +1,17 @@
+client :
+npx create-react-app client
+npm i react-router-dom
+npm install react-icons
+npm install react-quill
+npm install axios
+npm install react-time-ago javascript-time-ago
+
+server:
+npm init -y
+npm install express mongoose cors dotenv
+npm install -D nodemon
+npm run dev (to start node express server)
+npm install bcryptjs
+npm install jsonwebtoken
+npm install express-fileupload
+npm install uuid
